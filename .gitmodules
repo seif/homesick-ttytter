@@ -1,0 +1,3 @@
+[submodule "home/.ttytter-extensions"]
+	path = home/.ttytter-extensions
+	url = git@github.com:seif/ttytter-extensions.git
