@@ -14,7 +14,7 @@ simplestart=1
 verify=1
 readline="ttytter stormdragon2976 colindean vkoser reuteras "
 exts=/home/seif/.ttytter-extensions/libnotifyperl.pl,/home/seif/.ttytter-extensions/r2a.pl,/home/seif/.ttytter-extensions/tts.pl,/home/seif/.ttytter-extensions/timestamp.pl,/home/seif/.ttytter-extensions/client.pl
-notifytype=libnotifyperl
+notifytype=libnotify
 notifies=dm,me,reply
 #end TTYtter settings
 
